@@ -1,3 +1,0 @@
-﻿  main.cpp
-e:\desktop\university\20181\laptrinhmang\gomokuclient\gomokuclient.git\gomokuclient\main.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  GomokuClient.vcxproj -> E:\Desktop\University\20181\LapTrinhMang\GomokuClient\GomokuClient.git\Debug\GomokuClient.exe
